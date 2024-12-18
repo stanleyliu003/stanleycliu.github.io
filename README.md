@@ -37,6 +37,6 @@ Developed a handheld diagnostic device for the detection of HIV-1 P24 Biomarkers
 
 Developed an IoT wireless IMU gloves connected to a DJ soundboard to recognize 6-axis gesture control to control volume, tempo, and pan of output speaker. Programmed using bare-meal embedded C and implemented SPI communciation, GPIO, and timers/interupts. Designed and lazar cut physical enclosure using Solid Works. Wireless communication of data was done using Zigbee protocol. 
 
-![DJ Gloves](/assets/DJ_Gloves.png)
+![DJ Gloves](/assets/DJ_Gloves.jpg)
 
 
