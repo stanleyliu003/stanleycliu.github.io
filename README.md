@@ -39,4 +39,6 @@ Developed an IoT wireless IMU gloves connected to a DJ soundboard to recognize 6
 
 ![DJ Gloves](/assets/Dj_Gloves.jpg)
 
+## Publications
+1. Liu, S., Garg, N., Yoo, Paul., Lee, A., Rasheed, S., “A Microfluidic Device for Blood Plasma Separation and Fluorescence Detection of Biomarker using Acoustic Microstreaming”, Sensors and Actuators A: Physical, vol. 317 (2021) 112482, https://doi.org/10.1016/j.sna.2020.112482
 
