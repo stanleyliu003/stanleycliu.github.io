@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/b3868050-fb0e-409b-b0a2-d7f8e868cbeb
 
 Organized a fundraiser for the Greater Philadelphia Food Bank (Philabundance). Raised $1845 and ran 48 miles in 48 hours for Philabundance. Coordinated a social media campaign, mapped running routes, and led a group of 12 other runners from the University of Pennsylvania. 
 
-![Clip](/assets/GoFundMe2.png)
+![Clip](/assets/GoFundMe.png)
 
 ## Publications
 1. Liu, S., Garg, N., Yoo, Paul., Lee, A., Rasheed, S., “A Microfluidic Device for Blood Plasma Separation and Fluorescence Detection of Biomarker using Acoustic Microstreaming”, Sensors and Actuators A: Physical, vol. 317 (2021) 112482, https://doi.org/10.1016/j.sna.2020.112482
