@@ -45,7 +45,7 @@ Developed an IoT wireless IMU gloves connected to a DJ soundboard to recognize 6
 
 [Documentary](https://www.youtube.com/watch?v=OV_XZTa8c1Y&ab_channel=StanleyLiu)
 
-Ran, filmed, and produced a documentary entitled "Running 100 Miles: FAITH MOVES MOUNTAINS." The documentary retells my experience running the Tahoe Rim Trail 100, a 33-hour ultramarathon around Lake Tahoe. It's one of the hardest races in the United States and covers 100 miles and 18,000+ feet of elevation gain. A majority of the race is at 8000+ feet of elevation and in July temperatures rise to as high as 97 degrees drop as low as 51 degrees at night exposing runners to hypothermia.  
+Ran, filmed, and produced a documentary entitled "Running 100 Miles: FAITH MOVES MOUNTAINS." The documentary retells my experience running the Tahoe Rim Trail 100, a 33-hour ultramarathon around Lake Tahoe. The race covers 100 miles, 18,000+ feet of elevation gain, and is at 8000+ feet of elevation. During the day temperatures rise as high as 97 degrees and drop to 51 degrees at night.  
 
 [![Thumbnail_Ultramarathon](assets/Thumbnail_Ultramarathon.jpg)](https://www.youtube.com/watch?v=OV_XZTa8c1Y&ab_channel=StanleyLiu)
 
