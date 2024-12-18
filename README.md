@@ -49,8 +49,6 @@ Ran, filmed, and produced a documentary entitled "Running 100 Miles | FAITH MOVE
 
 https://github.com/user-attachments/assets/b3868050-fb0e-409b-b0a2-d7f8e868cbeb
 
-![Clip](/assets/ultramarathon_documentary.mp4)
-
 ### Fundraising for Greater Philadelphia Food Bank (Philabundance)
 
 [GoFundMe](https://gofundme.com/Phili-Food-Banks)
