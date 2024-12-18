@@ -4,10 +4,10 @@
 
 ## Education
 - M.S., Electrical Engineering | University of Pennsylvania (_May 2026_)							        		
-- M.S., Bioengineering | University of Pennsylvania (_May 2025_)
+- B.S., Bioengineering | University of Pennsylvania (_May 2025_)
 
 ## Work Experience
-**Software Engineer @ TOKA Watches LLC (_September 2023 - Novembor 2024_)**
+**Software Engineer @ TOKA Watches LLC (_September 2023 - November 2024_)**
 - Developed a smartwatch with accelerometer, GPS, and photoplethysmography sensors
 - Embedded C programming on an STM32 MCU. SPI/I2C/GPIO serial communication
 - Pitched venture and received $3000 in funding from Penn Wharton Innovation Fund
