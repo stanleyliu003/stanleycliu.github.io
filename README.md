@@ -1,6 +1,6 @@
 # Electrical Engineer
 
-#### Technical Skills: Embedded C, Python
+#### Technical Skills: Embedded C, Python, Solidworks
 
 ## Education
 - M.S., Electrical Engineering | The University of Pennsylvania (_May 2026_)							        		
