@@ -3,8 +3,8 @@
 #### Technical Skills: Embedded C, Python, Solidworks
 
 ## Education
-- M.S., Electrical Engineering | The University of Pennsylvania (_May 2026_)							        		
-- M.S., Bioengineering | The University of Pennsylvania (_May 2025_)
+- M.S., Electrical Engineering | University of Pennsylvania (_May 2026_)							        		
+- M.S., Bioengineering | University of Pennsylvania (_May 2025_)
 
 ## Work Experience
 **Software Engineer @ TOKA Watches LLC (_September 2023 - Novembor 2024_)**
