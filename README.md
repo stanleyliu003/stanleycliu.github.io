@@ -1,6 +1,6 @@
 # Electrical Engineer
 
-#### Technical Skills: Embedded C, Python
+#### Technical Skills: Embedded C, Python, Solidworks
 
 ## Education
 - M.S., Electrical Engineering | The University of Pennsylvania (_May 2026_)							        		
@@ -34,6 +34,8 @@ Developed a handheld diagnostic device for the detection of HIV-1 P24 Biomarkers
 ![Blood Diagnostic Device](/assets/HIV_Detection_Microfluidic_Device.png)
 
 ### Wireless IoT IMU Controlled DJ Gloves 
+
+[Demonstration](https://drive.google.com/file/d/1piwq2ZgpzOjEnAbGEd-KqYV-RUSKMKzg/view?usp=sharing)
 
 Developed an IoT wireless IMU gloves connected to a DJ soundboard to recognize 6-axis gesture control to control volume, tempo, and pan of output speaker. Programmed using bare-meal embedded C and implemented SPI communciation, GPIO, and timers/interupts. Designed and lazar cut physical enclosure using Solid Works. Wireless communication of data was done using Zigbee protocol. 
 
