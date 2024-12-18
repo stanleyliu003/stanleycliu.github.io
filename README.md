@@ -59,8 +59,6 @@ Ran, filmed, and produced a documentary entitled [Running 100 Miles | FAITH MOVE
 
 </a>
 
-![Thu](/assets/Dj_Gloves.jpg)
-
 ### Fundraising for Greater Philadelphia Food Bank (Philabundance)
 
 [GoFundMe](https://gofundme.com/Phili-Food-Banks)
